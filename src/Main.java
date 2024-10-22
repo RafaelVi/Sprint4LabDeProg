@@ -47,7 +47,6 @@ public class Main {
                 }
             }
         } while (contador < qtdEquipes);
-        System.out.println("equipes: " + Arrays.toString(equipes));
         //fim da parte 1
 
         int[] pontuacao = new int[qtdEquipes];
